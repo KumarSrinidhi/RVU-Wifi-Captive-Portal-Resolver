@@ -93,9 +93,7 @@ If the portal does appear or you are redirected to it, the login attempt was lik
 
 ### With the help of captive_portal_login.py
 
-[After Video](https://github.com/KumarSrinidhi/RVU-Wifi-Captive-Portal-Resolver/blob/main/videos/after.mp4)
-
-
+![After Video](https://github.com/KumarSrinidhi/RVU-Wifi-Captive-Portal-Resolver/blob/main/videos/after.gif?raw=true)
 
 ## Security Note ⚠️  
 ⚠️ The script uses `verify=False` for self-signed certificates. **For production use**:  
