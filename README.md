@@ -29,7 +29,6 @@ I realized that many students and professors, especially on devices like MacBook
    git clone https://github.com/KumarSrinidhi/RVU-Wifi-Captive-Portal-Resolver.git
    cd RVU-Wifi-Captive-Portal-Resolver
    ```
-
 2. Install dependencies:
    ```bash
    pip install requests
