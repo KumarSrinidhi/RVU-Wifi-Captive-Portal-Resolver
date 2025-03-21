@@ -91,16 +91,12 @@ Check out the demo below to see how the tool works before and after automating t
 
 
 ### Normal way
-<video width="640" height="360" controls>
-  <source src="videos/Before.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[Before Video](https://github.com/KumarSrinidhi/RVU-Wifi-Captive-Portal-Resolver/blob/main/videos/Before.mp4)
 
 ### With the help of captive_portal_login.py
-<video width="640" height="360" controls>
-  <source src="videos/after.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[After Video](https://github.com/KumarSrinidhi/RVU-Wifi-Captive-Portal-Resolver/blob/main/videos/after.mp4)
 
 
 
