@@ -26,8 +26,8 @@ I realized that many students and professors, especially on devices like MacBook
 ## Installation 📥  
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/captive-portal-automator.git
-   cd captive-portal-automator
+   git clone https://github.com/KumarSrinidhi/RVU-Wifi-Captive-Portal-Resolver.git
+   cd RVU-Wifi-Captive-Portal-Resolver
    ```
 
 2. Install dependencies:
